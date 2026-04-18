@@ -1,0 +1,7 @@
+geology_system:
+  default_density: 3.3
+  mantle_temperature: 1300
+  minerals:
+    - olivine
+    - pyroxene
+    - garnet
