@@ -1,0 +1,5 @@
+[
+  { "name": "Lherzolite", "composition": "Olivine + Pyroxene", "density": 3.3 },
+  { "name": "Harzburgite", "composition": "Olivine + Orthopyroxene", "density": 3.2 },
+  { "name": "Dunite", "composition": "Mostly Olivine", "density": 3.4 }
+]
